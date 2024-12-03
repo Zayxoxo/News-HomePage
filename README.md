@@ -1,6 +1,9 @@
 
 **News Homepage **
+
 **Overview**
+
+
 **Challenge Description**
 
 The task is to create a responsive and visually appealing news homepage using HTML and CSS. 
@@ -35,8 +38,8 @@ Practiced using CSS media queries for adaptive layouts.
 
 Improved my ability to structure HTML for readability and maintainability.
 
-**Acknowledgements 
-**
+**Acknowledgements **
+
 Thanks to Frontend Mentor for providing the challenge.
 
 Inspiration and design assets were taken from the challenge materials.
